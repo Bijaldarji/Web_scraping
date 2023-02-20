@@ -1,5 +1,4 @@
-# Web_scraping
-I developed this project to scrap data from website 
+# Web_scrapingI developed this project to scrap data from website 
 
 from bs4 import BeautifulSoup 
 
